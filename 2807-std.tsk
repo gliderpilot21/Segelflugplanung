@@ -1,0 +1,33 @@
+<Task type="AAT" task_scored="0" aat_min_time="10800" start_max_speed="60" start_max_height="0" start_max_height_ref="MSL" finish_min_height="0" finish_min_height_ref="AGL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
+  <Point type="Start">
+    <Waypoint name="005 AP04 Deidesheimer Hof" id="0" comment="" altitude="120.0">
+      <Location longitude="8.1875" latitude="49.40805"/>
+    </Waypoint>
+    <ObservationZone type="Line" length="20000.0"/>
+  </Point>
+  <Point type="Area">
+    <Waypoint name="073 Kirn" id="0" comment="" altitude="420.0">
+      <Location longitude="7.5188833" latitude="49.77445"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="15000.0"/>
+  </Point>
+  <Point type="Area">
+    <Waypoint name="135 Weinheim" id="0" comment="" altitude="97.0">
+      <Location longitude="8.6111167" latitude="49.5675"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="20000.0"/>
+  </Point>
+  <Point type="Area">
+    <Waypoint name="029 Bruchsal" id="0" comment="" altitude="115.0">
+      <Location longitude="8.555" latitude="49.14"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="20000.0"/>
+  </Point>
+  <Point type="Finish">
+    <Waypoint name="001 Lachen-Speyerdorf" id="0" comment="" altitude="118.0">
+      <Location longitude="8.2116667" latitude="49.3302833"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="4000.0"/>
+  </Point>
+</Task>
+
