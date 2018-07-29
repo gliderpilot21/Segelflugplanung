@@ -1,0 +1,33 @@
+<Task type="RT" task_scored="0" aat_min_time="10800" start_max_speed="60" start_max_height="0" start_max_height_ref="MSL" finish_min_height="0" finish_min_height_ref="AGL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
+  <Point type="Start">
+    <Waypoint name="006 AP05 Globus Parkplatz" id="0" comment="" altitude="131.0">
+      <Location longitude="8.1622167" latitude="49.34055"/>
+    </Waypoint>
+    <ObservationZone type="Line" length="20000.0"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="078 Kupferzell" id="0" comment="" altitude="349.0">
+      <Location longitude="9.68945" latitude="49.1997167"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="007 AalenElching" id="0" comment="" altitude="584.0">
+      <Location longitude="10.2658333" latitude="48.7788833"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="032 Crailsheim" id="0" comment="" altitude="413.0">
+      <Location longitude="10.0638833" latitude="49.13805"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Finish">
+    <Waypoint name="001 Lachen-Speyerdorf" id="0" comment="" altitude="118.0">
+      <Location longitude="8.2116667" latitude="49.3302833"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="4000.0"/>
+  </Point>
+</Task>
+
