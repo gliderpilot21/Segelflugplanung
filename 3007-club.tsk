@@ -6,14 +6,14 @@
     <ObservationZone type="Line" length="20000.0"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="061 Hettstadt" id="0" comment="" altitude="320.0">
-      <Location longitude="9.8366667" latitude="49.7983333"/>
+    <Waypoint name="024 Biebelried" id="0" comment="" altitude="320.0">
+      <Location longitude="10.0916667" latitude="49.78"/>
     </Waypoint>
     <ObservationZone type="Keyhole"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="078 Kupferzell" id="0" comment="" altitude="349.0">
-      <Location longitude="9.68945" latitude="49.1997167"/>
+    <Waypoint name="032 Crailsheim" id="0" comment="" altitude="413.0">
+      <Location longitude="10.0638833" latitude="49.13805"/>
     </Waypoint>
     <ObservationZone type="Keyhole"/>
   </Point>
