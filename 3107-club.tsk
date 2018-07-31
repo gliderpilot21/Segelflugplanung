@@ -1,0 +1,27 @@
+<Task type="AAT" task_scored="0" aat_min_time="10800" start_max_speed="60" start_max_height="0" start_max_height_ref="MSL" finish_min_height="0" finish_min_height_ref="AGL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
+  <Point type="Start">
+    <Waypoint name="006 AP05 Globus Parkplatz" id="0" comment="" altitude="131.0">
+      <Location longitude="8.1622167" latitude="49.34055"/>
+    </Waypoint>
+    <ObservationZone type="Line" length="20000.0"/>
+  </Point>
+  <Point type="Area">
+    <Waypoint name="030 Buchen" id="0" comment="" altitude="346.0">
+      <Location longitude="9.3283333" latitude="49.5247167"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="20000.0"/>
+  </Point>
+  <Point type="Area">
+    <Waypoint name="058 Heilbronn" id="0" comment="" altitude="156.0">
+      <Location longitude="9.17945" latitude="49.1216667"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="20000.0"/>
+  </Point>
+  <Point type="Finish">
+    <Waypoint name="001 Lachen-Speyerdorf" id="0" comment="" altitude="118.0">
+      <Location longitude="8.2116667" latitude="49.3302833"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="4000.0"/>
+  </Point>
+</Task>
+
